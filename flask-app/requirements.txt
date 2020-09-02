@@ -1,0 +1,4 @@
+elasticsearch==7.9.0
+Flask==1.1.2
+requests==2.23.0
+simplejson==3.17.2
